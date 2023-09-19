@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at CESAR School.\
 👩‍💼 &nbsp;I'm currently working at AvantSoft.\
 🌱 &nbsp;I'm on track for learning more about Frontend, Systems Design and Project Leadership.\
