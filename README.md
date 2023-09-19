@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at CESAR School.\
 👩‍💼 &nbsp;I'm currently working at AvantSoft.\
-🌱 &nbsp;I'm on track for learning more about Frontend, Systems Design, and Project Leader.\
+🌱 &nbsp;I'm on track for learning more about Frontend, Systems Design and Project Leadership.\
 ✍️ &nbsp;In my free time, I like to cook and learn about human brain.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at isadoravviana08@gmail.com I'll try to respond as soon as I can.\
